@@ -1,0 +1,1 @@
+## Installation```Metacello new	repository: 'github://hellerve/Gt4Chess:main/src';	baseline: 'Gt4Chess';	load```
